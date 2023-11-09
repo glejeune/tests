@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
 echo "Pre push"
+exit 1
